@@ -1,0 +1,6 @@
+framework module Pods_HYPDAssignment {
+  umbrella header "Pods-HYPDAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
